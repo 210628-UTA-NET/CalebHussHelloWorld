@@ -1,0 +1,16 @@
+D:\Revature\CoreC#\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+D:\Revature\CoreC#\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+D:\Revature\CoreC#\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+D:\Revature\CoreC#\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+D:\Revature\CoreC#\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+D:\Revature\CoreC#\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+D:\Revature\CoreC#\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+D:\Revature\CoreC#\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.AssemblyReference.cache
+D:\Revature\CoreC#\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Revature\CoreC#\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+D:\Revature\CoreC#\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+D:\Revature\CoreC#\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Revature\CoreC#\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+D:\Revature\CoreC#\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+D:\Revature\CoreC#\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+D:\Revature\CoreC#\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache
