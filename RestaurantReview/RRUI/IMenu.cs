@@ -1,7 +1,7 @@
 namespace RRUI
 {
 
-    public interface IMENU
+    public interface IMenu
     {
         /// <summary>
         ///  Will display the overall menu of the class and the coives you can make in that menu class

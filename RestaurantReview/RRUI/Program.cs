@@ -1,5 +1,5 @@
 ﻿using System;
-using RestaurantReview;
+using RRModels;
 
 namespace RRUI
 {
@@ -7,8 +7,24 @@ namespace RRUI
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Restaurant newRestaurant = new Restaurant;
+            IMenu restMenu = new MainMenu();
+            bool repeat = true;
+            string currentMenu = "Mainmenu";
+            while (repeat)
+            {
+                Console.Clear();
+                restMenu.Menu();
+                currentMenu = restMenu.YourChoice();
+                switch (currentMenu)
+                {
+                    case "Exit":
+                        repeat = false;
+                        break;
+                    default:
+                        Console.WriteLine("Cannot Process entry");
+                        break;
+                }
+            }
         }
     }
 }

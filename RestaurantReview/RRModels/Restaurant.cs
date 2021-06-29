@@ -1,6 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text.RegularExpressions;
 
-namespace RestaurantReview
+namespace RRModels
 {
     public class Restaurant
     {
@@ -17,7 +19,7 @@ namespace RestaurantReview
 
             set
             {
-                if (!Regex.isMatch(value, "@^[A-Za-z .]+$"))
+                if (!Regex.IsMatch(value, "@^[A-Za-z .]+$"))
                 {
                     throw new Exception("City can only hold letters!");
                 }
@@ -26,7 +28,7 @@ namespace RestaurantReview
         }
         public string State { get; set; }
 
-        public List<Review> Reviews { get; set; }
+        //public List<Review> Reviews { get; set; }
 
     }
 }
