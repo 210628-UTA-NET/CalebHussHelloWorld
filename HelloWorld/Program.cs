@@ -1,6 +1,6 @@
 ﻿using System; // Importing system namespace
 using HouseFunction;
-
+using HelloWorld;
 /*
 use PascalCase for most of the naming
 use camelCase for naming fields
@@ -30,8 +30,6 @@ namespace HelloWorld
             Console.WriteLine(obj.SomeMethod());
             Console.WriteLine(_first + _last);
 
-            Console.WriteLine(args[0]);
-
             //house example
             House objHouse = new House();
             Console.WriteLine(objHouse.getColor());
@@ -39,6 +37,7 @@ namespace HelloWorld
             Console.WriteLine(objHouse.getColor());
             objHouse.Price = 8000;
             Console.WriteLine(objHouse.Price);
+            Collection.CollectionMain();
         }
     }
 
@@ -47,7 +46,7 @@ namespace HelloWorld
         public string SomeMethod()
         {
             //Console.WriteLine("Somemethod was called");
-            return "Hello World Somemethod";
+            return "Hello World Sommethod";
         }
     }
 

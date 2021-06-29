@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Revature\\CoreC#\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\Caleb\\Documents\\Revature\\CoreC#\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "D:\\Revature\\CoreC#\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\Caleb\\Documents\\Revature\\CoreC#\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Revature\\CoreC#\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\Caleb\\Documents\\Revature\\CoreC#\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "D:\\Revature\\CoreC#\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\Caleb\\Documents\\Revature\\CoreC#\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\Caleb\\.nuget\\packages\\",
-        "outputPath": "D:\\Revature\\CoreC#\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\Caleb\\Documents\\Revature\\CoreC#\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Caleb\\AppData\\Roaming\\NuGet\\NuGet.Config"
